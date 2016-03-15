@@ -11,6 +11,7 @@ tags:
 
 Today's video shows how the popular https://github.com/bkeepers/dotenv project works.
 
+{% youtube MdcpJw4-QgQ %}
 
 ## Useful/Interesting techniques
 
