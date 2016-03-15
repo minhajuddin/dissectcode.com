@@ -18,9 +18,9 @@ widgets:
 - recent_posts
 
 # Miscellaneous
-google_analytics:
+google_analytics: UA-75162394-1
 favicon: /favicon.png
-twitter:
+twitter: dissectcode
 google_plus:
 fb_admins:
 fb_app_id:
