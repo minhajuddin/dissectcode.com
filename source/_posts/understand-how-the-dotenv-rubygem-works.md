@@ -7,6 +7,7 @@ tags:
 - parser
 - railtie
 - regex
+- intermediate
 ---
 
 Today's video shows how the popular https://github.com/bkeepers/dotenv project works.
